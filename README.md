@@ -1,10 +1,12 @@
 # Radio Borya GitHub Community Health Files
 
-This repository contains community health files and shared contribution guidance for repositories in the Radio Borya organization. GitHub can use files from this repository as organization-wide defaults when a project does not provide its own version.
+This is the public `.github` repository for the Radio Borya organization. GitHub can use recognized community health files from it as organization-wide defaults when a project does not provide its own version.
+
+At present, this repository contains this README only; it does not publish organization-wide issue forms, contribution instructions, a code of conduct, security reporting instructions or an organization profile. Add one of those defaults only when the organization has adopted its content.
 
 ## Repository scope
 
-Keep this repository focused on files GitHub recognizes as community health files, such as:
+Keep this repository focused on files GitHub recognizes as community health files, for example:
 
 - `CONTRIBUTING.md` for contribution and review guidance;
 - `CODE_OF_CONDUCT.md` for community expectations and reporting;
